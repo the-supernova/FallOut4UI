@@ -2,7 +2,7 @@
 Hit up your nostalgia buds as the 'Pipboy' from Fallout 4 appears again! 
 A replication of the awesome UI which you would have seen in **pip-boy edition** companion devices..
 ## Screenshots
-
+[!demo](https://github.com/the-supernova/FallOut4UI/blob/master/demo_1.png)
 ## Motivation
 Since the release of the game, I was fascinated by cool UI effects of the game but I wasn't aware of how does it works and it remained in my wishlist!
 So,after a long long time I got the privilege to actually try to make one using the technologies out there! This project also helped me in learning and gaining expertise on the concepts of **Bootstrap** and **Javascript** and a lot of frameworks.
