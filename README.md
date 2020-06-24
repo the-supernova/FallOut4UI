@@ -7,7 +7,7 @@ https://the-supernova.github.io/FallOut4UI/.
 ![demo](<demo.gif>)
 ## Motivation
 Since the release of the game, I was fascinated by cool UI effects of the game but I wasn't aware of how does it works and it remained in my wishlist!
-So,after a long long time I got the privilege to actually try to make one using the technologies out there! This project also helped me in learning and gaining expertise on the concepts of **Bootstrap** and **Javascript** and a lot of frameworks.
+So,after a long long time I got the privilege to actually try to make one using the technologies out there! This project also helped me in learning and gaining expertise on the concepts of **Bootstrap** and **Javascript** and some of the frameworks.
 ## Technologies
 Project is created with:
 * JQuery version-3.5.1
@@ -18,7 +18,7 @@ Project is created with:
 * A unique _Scanline_ effect maintained all over the website
 * HP and Level bars added at the footer and around the avatar same as the game
 * Different effects added for active navs and other navs
-* In weapons nav of INV tab, weapon stats for the respective weapon appear on the right as you hover on each
+* In INV tab, weapon stats for the respective weapon appear on the right as you hover on each
 ## To-do
 * Add info in DATA, MAP, RADIO tabs
 * Add image of weapons to be shown on hovering
