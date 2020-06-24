@@ -13,8 +13,7 @@ Project is created with:
 * JQuery version-3.5.1
 * Javascript
 * Bootstrap version-4.5
-* A *lot* of CSS Positioning
-* Project initially had Popper.js files also but removed it as I didnt find any use of it 
+* A *lot* of CSS Positioning 
 ## Features
 * A unique _Scanline_ effect maintained all over the website
 * HP and Level bars added at the footer and around the avatar same as the game
